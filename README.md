@@ -5,14 +5,14 @@
 
 ## I'm an Artist, Designer, Developer and Utilitarian!!
 
-- ❤️  I am in love with Web development since 2015.
-- 🔭 I’m currently working on my JS tips and tricks newsletter!
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate on design pattern utilities.
-- 💬 Ask me about anything 🤣
-- 📫 How to reach me, [Mail me](mailto:haideralianjum@live.com?subject=[Contacting Haider]%20Source%20Han%20Sans)
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat, talk and talk about the food.
+- ❤️   I am in love with Web development since 2015.
+- 🔭  I’m currently working on my JS tips and tricks newsletter!
+- 🌱  I’m currently learning everything 
+- 👯  I’m looking to collaborate on design pattern utilities.
+- 💬  Ask me about anything 🤣
+- 📫  How to reach me, [Mail me](mailto:haideralianjum@live.com?subject=[Contacting Haider]%20Source%20Han%20Sans)
+- 🥅  2021 Goals: Contribute more to Open Source projects
+- ⚡   Fun fact: I love to eat, talk and talk about the food.
 
 ### Spotify Playing 🎧
 
