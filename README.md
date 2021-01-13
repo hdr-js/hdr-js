@@ -14,7 +14,7 @@
 ### Spotify Playing 🎧
 
 
-[<img src="https://https-haiderali.vercel.app/api/spotify-playing" alt="https-haiderali Spotify Playing" width="450" />](https://open.spotify.com/user/4x3axul3facus0z9pcgcdz3ct)
+[<img src="https://spotiy-integration.https-haiderali.vercel.app/api/spotify-playing" alt="https-haiderali Spotify Playing" width="450" />](https://open.spotify.com/user/4x3axul3facus0z9pcgcdz3ct)
 
 ### Connect with me:
 
