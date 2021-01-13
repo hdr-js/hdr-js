@@ -1,4 +1,4 @@
-## Hi there, I'm Haider -  aka [hdr][website]👋  
+### Hi there, I'm Haider -  aka [hdr][website]👋  
 
 [![Website](https://img.shields.io/website?label=haidera.li&style=for-the-badge&url=https%3A%2F%2Fhaidera.li)](https://haidera.li)
 [![Twitter Follow](https://img.shields.io/twitter/follow/https_haiderali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhttps-haiderali&screen_name=https_haiderali)
@@ -6,10 +6,13 @@
 ## I'm an Artist, Designer, Developer and Utilitarian!!
 
 - ❤️  I am in love with Web development since 2015.
-- 🌱 I’m currently learning everything 🤣
-- 🔭 I'm currently working on a ES6 course! 🤞
+- 🔭 I’m currently working on my JS tips and tricks newsletter!
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate on design pattern utilities.
+- 💬 Ask me about anything 🤣
+- 📫 How to reach me, [Mail me](mailto:haideralianjum@live.com?subject=[Contacting Haider]%20Source%20Han%20Sans)
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡  I love to sketch and paint. 
+- ⚡ Fun fact: I love to eat, talk and talk about the food.
 
 ### Spotify Playing 🎧
 
