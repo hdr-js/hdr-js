@@ -13,6 +13,7 @@
 
 ### Spotify Playing 🎧
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4x3axul3facus0z9pcgcdz3ct&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 [<img src="https://spotiy-integration.https-haiderali.vercel.app/api/spotify-playing" alt="https-haiderali Spotify Playing" width="450" />](https://open.spotify.com/user/4x3axul3facus0z9pcgcdz3ct)
 
