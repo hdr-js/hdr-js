@@ -5,16 +5,14 @@
 
 ## I'm an Artist, Developer and Utilitarian!!
 
-- ❤️   I'm in love with Web development since 2015.
+- ❤️   I'm in love with JavaScript since 2015.
 - 🔭  I’m currently working on my portfolio website.
 - 🌱  I’m currently learning everything.
 - 💬  Ask me about anything 🤣
 - 🥅  2021 Goals: Cut some fat and gain some skills.
-- ⚡   Fun fact: I love to eat, talk and talk about the food.
+- ⚡   I love to eat, talk and talk about the food.
+- ❤️  Gifs are better then words.
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4x3axul3facus0z9pcgcdz3ct&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=4x3axul3facus0z9pcgcdz3ct&redirect=true)
 
 ### Connect with me:
 
