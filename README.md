@@ -5,13 +5,16 @@
 
 ## I'm an Artist, Developer and Utilitarian!!
 
-- ❤️   I'm in love with JavaScript since 2015.
+- ❤️  I'm in love with JavaScript since 2015.
 - 🔭  I’m currently working on my portfolio website.
 - 🌱  I’m currently learning everything.
-- 💬  Ask me about anything 🤣
 - 🥅  2021 Goals: Cut some fat and gain some skills.
-- ⚡   I love to eat, talk and talk about the food.
+- ⚡  I love to talk, eat and talk about the food.
 - ❤️  Gifs are better then words.
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## Languages all time
 <img src="https://wakatime.com/share/@90bef79e-dde5-42c1-b107-89b54760cdfe/e6b11347-4f28-4d01-95cd-39752ee35ca9.svg" width="640px" />
