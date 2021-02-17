@@ -14,4 +14,4 @@
 - ❤️  Gifs are better then words.
 
 ## Languages all time
-![Alt text](https://wakatime.com/share/@aj/6aa10b67-a5e9-4fb1-acaf-8692f4385172.svg)
+![Alt text](https://wakatime.com/share/@90bef79e-dde5-42c1-b107-89b54760cdfe/f89b11f4-298d-49cd-9a29-bae958a58344.svg)
