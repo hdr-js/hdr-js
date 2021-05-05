@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Haider
 
 [![Website](https://img.shields.io/website?label=haidera.li&style=for-the-badge&url=https%3A%2F%2Fhaidera.li)](https://haidera.li)
-[![Twitter Follow](https://img.shields.io/twitter/follow/https_haiderali?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)
 
 ## I'm an Artist, Developer and Utilitarian!!
 
