@@ -5,7 +5,6 @@
 [![Stackoverflow Profile](https://img.shields.io/stackexchange/stackoverflow/r/8404234?color=ef8236%20&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC1GeraPMjhlzBf25ZjXDzhw?logo=youtube&style=for-the-badge)](https://youtube.com/channel/UC1GeraPMjhlzBf25ZjXDzhw)
 
-https://img.shields.io/youtube/channel/subscribers/UC1GeraPMjhlzBf25ZjXDzhw?logo=youtube&style=for-the-badge
 
 ## I'm an Artist, Developer and Utilitarian!!
 
