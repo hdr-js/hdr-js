@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=haidera.li&style=for-the-badge&url=https%3A%2F%2Fhaidera.li)](https://haidera.li)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
 
+[![Haider StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8404234&layout=compact&theme=dark)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
+
 ## I'm an Artist, Developer and Utilitarian!!
 
 - ❤️  I'm in love with JavaScript since 2015.
@@ -22,7 +24,5 @@ Markdown     8 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-
-[![Haider StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8404234&layout=compact&theme=dark)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
 
 <!-- <img src="https://wakatime.com/share/@90bef79e-dde5-42c1-b107-89b54760cdfe/e6b11347-4f28-4d01-95cd-39752ee35ca9.svg" width="640px" /> -->
