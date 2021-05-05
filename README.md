@@ -3,6 +3,9 @@
 [![Website](https://img.shields.io/website?label=https%3A%2F%2Fhaidera.li&logo=gatsby&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fhaidera.li)](https://haidera.li)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
 [![Stackoverflow Profile](https://img.shields.io/stackexchange/stackoverflow/r/8404234?color=ef8236%20&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UC1GeraPMjhlzBf25ZjXDzhw?logo=youtube&style=for-the-badge)](https://youtube/channel/UC1GeraPMjhlzBf25ZjXDzhw)
+
+https://img.shields.io/youtube/channel/subscribers/UC1GeraPMjhlzBf25ZjXDzhw?logo=youtube&style=for-the-badge
 
 ## I'm an Artist, Developer and Utilitarian!!
 
