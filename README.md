@@ -22,4 +22,7 @@ Markdown     8 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
+
+[![Haider StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8404234&layout=compact&theme=dark)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
+
 <!-- <img src="https://wakatime.com/share/@90bef79e-dde5-42c1-b107-89b54760cdfe/e6b11347-4f28-4d01-95cd-39752ee35ca9.svg" width="640px" /> -->
