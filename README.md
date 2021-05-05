@@ -2,8 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=haidera.li&style=for-the-badge&url=https%3A%2F%2Fhaidera.li)](https://haidera.li)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
-
-[![Haider StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8404234&layout=compact&theme=dark)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
+[![Stackoverflow Profile](https://img.shields.io/stackexchange/stackoverflow/r/8404234?logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
 
 ## I'm an Artist, Developer and Utilitarian!!
 
