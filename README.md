@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Haider
 
-[![Website](https://img.shields.io/website?label=https%3A%2F%2Fhaidera.li&logo=gatsby&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fhdr-js.com)](https://hdr-js.com)
+[![Website](https://img.shields.io/website?label=https%3A%2F%2Fhdr-js.com&logo=gatsby&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fhdr-js.com)](https://hdr-js.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
 [![Stackoverflow Profile](https://img.shields.io/stackexchange/stackoverflow/r/8404234?color=ef8236&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
 
