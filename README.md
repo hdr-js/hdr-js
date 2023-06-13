@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Haider
 
-[![Website](https://img.shields.io/website?label=https%3A%2F%2Fhaidera.li&logo=gatsby&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fhaidera.li)](https://haidera.li)
+[![Website](https://img.shields.io/website?label=https%3A%2F%2Fhaidera.li&logo=gatsby&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fhdr-js.com)](https://hdr-js.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
 [![Stackoverflow Profile](https://img.shields.io/stackexchange/stackoverflow/r/8404234?color=ef8236&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8404234/haider-ali-anjum)
 
@@ -9,8 +9,8 @@
 
 - ❤️  I'm in love with JavaScript since 2015.
 - 🔭  I’m currently working on my portfolio website.
-- 🌱  I’m currently learning everything.
-- 🥅  2021 Goals: Cut some fat and gain some skills.
+- 🌱  I’m currently working on self-learship.
+- 🥅  2023 Goals: Cut some fat and gain some skills.
 - ⚡  I love to talk, eat and talk about the food.
 - ❤️  Gifs are better then words.
 
