@@ -9,7 +9,7 @@
 
 - ❤️  I'm in love with JavaScript since 2015.
 - 🔭  I’m currently working on my portfolio.
-- 🌱  I’m currently working on resilience self-learship.
+- 🌱  I’m currently working on resilience and self-learship.
 - 🥅  2024 Goals: Cut some fat and gain some skills.
 - ⚡  I love to talk, eat and code.
 - ❤️  Gifs are better then words.
