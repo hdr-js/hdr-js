@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Haider
+# 👋 Hi, I'm Haider
 
 [![Website](https://img.shields.io/website?label=https%3A%2F%2Fhdrjs.de&logo=gatsby&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fhdrjs.de)](https://hdrjs.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdr_js?color=dark-green&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhdr_js&screen_name=hdr_js)
